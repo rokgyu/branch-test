@@ -2,12 +2,9 @@ first edition
 second edition
 third edition
 issue resolved
-<<<<<<< HEAD
 Hotfix teams'  solution
 New function added
-=======
-Hotfix team's  solution
->>>>>>> f6546e0bced92b864c4a9d686d3540203e67835a
+
 
 
 
